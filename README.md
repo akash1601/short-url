@@ -10,11 +10,11 @@ Developed using the react
 *backend*
 Developed using the Node
 
-##Follow these steps for connecting your mongodb cloud service and Bitly url shortner.
+## Follow these steps for connecting your mongodb cloud service and Bitly url shortner.
 
-*MongoDB setting:
+* MongoDB setting:
 
-*Bitly url shortner setting:
+* Bitly url shortner setting:
 
 First go into server folder and install all dependencies using `npm install` and then `npm start`
 
