@@ -10,6 +10,10 @@ Developed using the react
 *backend*
 Developed using the Node
 
+# Demo
+
+![Demo for the App](client/short-url-global/short-url.gif)
+
 ## Follow these steps for connecting your mongodb cloud service and Bitly url shortner.
 
 * MongoDB setting:
